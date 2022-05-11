@@ -14,7 +14,7 @@ Dentro de la carpeta de `Forecasting` encontrarás lo necesario para el taller d
 Los notebooks que encontrarás allá son: 
 - `Forecasting Example.ipynb` con una guía sobre cómo hacer un pronóstico multi-step para múltiples series usando LSTM
 - `[HANDS ON] Pronóstico Probabilístico.ipynb` un ejercicio práctico para hacer un pronóstico de este estilo, ¡pero volviéndolo probabilístico! Es decir, prediciendo una distribución de probabilidad. 
-- `Pronóstico Probabilístico.ipynb` La solución al ejercicio práctico 
+- `Pronóstico Probabilístico.ipynb` La solución al ejercicio práctico.
 
 
 
