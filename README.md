@@ -21,4 +21,4 @@ Los notebooks que encontrarás allá son:
  Computer Vision
 ---------------
 
-En este apartado utilizaremos un ejemplo de TensorFlow [https://www.tensorflow.org/tutorials/images/transfer_learning] para ver en acción cómo se puede utilizar Transfer Learning y Fine Tuning para aprovechar modelos pre-entrenados y usarlos en nuestros propios problemas de clasificación. Discutiremos sobre algunas implicaciones prácticas, mientras construimos un clasificador que distinga entre perros y gatos.
+En este apartado utilizaremos un [ejemplo de TensorFlow](https://www.tensorflow.org/tutorials/images/transfer_learning) para ver en acción cómo se puede utilizar Transfer Learning y Fine Tuning para aprovechar modelos pre-entrenados y usarlos en nuestros propios problemas de clasificación. Discutiremos sobre algunas implicaciones prácticas, mientras construimos un clasificador que distinga entre perros y gatos.
