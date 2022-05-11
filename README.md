@@ -2,8 +2,7 @@
 
 Bienvenidos a este pequeño módulo práctico de Deep Learning. Dentro de este repositorio encontrarán una pequeña introducción sobre pronósticos de Series de Tiempo utilizando Redes Neuronales y un ejemplo práctico de cómo realizar Fine Tuning en modelos de imágenes. 
 
-Juan Eduardo Coba Puerto 
-<a href="https://www.linkedin.com/in/juancoba/"><img align="left" src="https://raw.githubusercontent.com/juancop/URDeepLearning/main/Forecasting/imgs/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+Juan Eduardo Coba Puerto  <a href="https://www.linkedin.com/in/juancoba/"><img align="left" src="https://raw.githubusercontent.com/juancop/URDeepLearning/main/Forecasting/imgs/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
 ## Forecasting
 
@@ -18,6 +17,6 @@ Los notebooks que encontrarás allá son:
 
 
 
-## Computer Vision
+# Computer Vision
 
 En este apartado utilizaremos un ejemplo de TensorFlow [https://www.tensorflow.org/tutorials/images/transfer_learning] para ver en acción cómo se puede utilizar Transfer Learning y Fine Tuning para aprovechar modelos pre-entrenados y usarlos en nuestros propios problemas de clasificación. Discutiremos sobre algunas implicaciones prácticas, mientras construimos un clasificador que distinga entre perros y gatos.
